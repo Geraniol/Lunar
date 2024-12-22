@@ -4,7 +4,7 @@ Final Project Game Demo
 
 **v0.5 demo** is available now.  
 Support **Windows** (x86_64), **MacOS** (Intel & AppleSilicon) and **Linux**.  
-Support **Xbox** controller on Windows.  
+Support controller.  
 You can download it in Releases page.
 
 # Background Story
@@ -37,4 +37,5 @@ As Christmas approaches, the character of my story, little P-Chan(tentative), wh
 * Unity
 
 # Buy me a coffee
+[爱发电](https://afdian.com/a/Geraniol)
 [Steam Wishlist](https://store.steampowered.com/wishlist/profiles/76561199089877858/)
