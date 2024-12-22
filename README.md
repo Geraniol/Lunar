@@ -4,7 +4,7 @@ Final Project Game Demo
 
 **v0.5 demo** is available now.  
 Support **Windows** (x86_64), **MacOS** (Intel & AppleSilicon) and **Linux**.  
-Support **Xbox** controller.  
+Support **Xbox** controller on Windows.  
 You can download it in Releases page.
 
 # Background Story
