@@ -5,7 +5,24 @@ Final Project Game Demo
 **v0.5 demo** is available now.  
 Support **Windows** (x86_64), **MacOS** (Intel & AppleSilicon) and **Linux**.  
 Support controller.  
-You can download it in Releases page.
+You can download it in [Releases](https://github.com/Geraniol/Lunar/releases) page.
+
+# Important
+Due to the policy of the **MacOS** system, you need to manually fix the permissions after unzipping:
+1. Right-click on the unzipped application
+2. Click "Show Package" Contents
+3. Go to the "Contents" folder
+4. Go to the "MacOS" folder
+5. Find the "Lunar" file
+6. Open a Terminal
+7. Enter `chmod +x [drag the file of step 5 here to automatically complete the path]` to fix the permissions
+8. Press Enter to run
+
+If you receive a warning about unknown developer:
+1. Go to "System Settings"
+2. Go to "Security & Privacy"
+3. Go to "Security"
+4. Click "Open Anyway"
 
 # Background Story
 
