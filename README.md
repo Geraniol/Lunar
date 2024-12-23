@@ -1,7 +1,6 @@
+![Github](https://github.com/user-attachments/assets/7fb07a74-5571-4c0d-a17a-309305b4dbb4)
+
 # Lunar R
-
-Final Project Game Demo
-
 **v0.5 demo** is available now.  
 Support **Windows** (x86_64), **MacOS** (Intel & AppleSilicon) and **Linux**.  
 Support controller.  
