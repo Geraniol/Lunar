@@ -1,4 +1,4 @@
-![Github](https://github.com/user-attachments/assets/7fb07a74-5571-4c0d-a17a-309305b4dbb4)
+![Lunar R](https://github.com/user-attachments/assets/7fb07a74-5571-4c0d-a17a-309305b4dbb4)
 
 **v0.5 demo** is available now.  
 Support **Windows** (x86_64), **MacOS** (Intel & AppleSilicon) and **Linux**.  
@@ -27,7 +27,8 @@ If you receive a warning about unknown developer:
 As Christmas approaches, the character of my story, little P-Chan(tentative), who resides on the Moon, longs to return to its homeland, Earth. However, a ticket from SpaceY costs $1k, and P-Chan only has $200. Determined to reach Earth, P-Chan decides to take a part-time delivery job at WcDonal's. To finish this story, do the best to overcome obstacles, deliver food on time, and keep an eye on the oxygen pressure.
 
 # Controls
-![ControlX](https://github.com/user-attachments/assets/a3586c0c-1519-4b59-88d2-d8e38967f5b2)
+![Controls](https://github.com/user-attachments/assets/4f64c730-1e23-4e19-ae19-c80393fe09b5)
+
 
 # Contributors
 
